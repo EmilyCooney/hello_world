@@ -1,5 +1,5 @@
 # hello_world
-Portfolio for Emily Cooney; Author, Editor, Technical Writer and Business Analyst, provider of Author Services.
+Portfolio for Emily Cooney; Author, Editor, Technical Writer, Business Analyst, provider of Author Services.
 
 felixlong888@gmail.com
 +61 (0) 409 605 161
