@@ -1,6 +1,9 @@
 # hello_world
 Portfolio for Emily Cooney; Author, Editor, Technical Writer and Business Analyst, provider of Author Services.
 
+felixlong888@gmail.com
++61 (0) 409 605 161
+
 •	Author Services; e-book conversions, author websites, digital honesty boxes, e-commerce vending profile establishment, social media marketing, online content generation
 
 •	Technical Documentation; Product Manuals, Software Manuals, Configuration Manuals, Customisation Manuals, Reference Guides, User Guides
