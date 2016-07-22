@@ -3,7 +3,7 @@ Portfolio for Emily Cooney
 
 Author, Editor, Technical Writer, Business Analyst, provider of Author Services.
 
-felixlong888@gmail.com
+emilyforemphasis@gmail.com
 
 +61 (0) 409 605 161
 
