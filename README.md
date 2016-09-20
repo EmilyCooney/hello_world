@@ -1,7 +1,7 @@
 # hello_world
 Portfolio for Emily Cooney
 
-Author, Editor, Technical Writer, Business Analyst, provider of Author Services.
+Business Analyst, Technical Writer, Author, Editor, Author Services Provider.
 
 emilyforemphasis@gmail.com
 
